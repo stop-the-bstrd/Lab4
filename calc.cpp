@@ -11,6 +11,6 @@ return a - b;
 
 int main()
 {
-    std::cout << "=== Калькулятор v1.0 ===" << std::endl;
+    std::cout << "=== Super Pro Calculator ===" << std::endl;
 return 0;
 }
