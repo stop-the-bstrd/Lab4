@@ -6,11 +6,11 @@ int add(int a, int b)
 }
 int sub(int a, int b)
 {
-return a - b;
+    return a - b;
 }
 
 int main()
 {
-    std::cout << "=== Ижинерный калькулятор ===" << std::endl;
-return 0;
+    std::cout << "=== Super Pro Calculator (Инжинерный) ===" << std::endl;
+    return 0;
 }
