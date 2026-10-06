@@ -14,3 +14,6 @@ int main()
     std::cout << "=== Super Pro Calculator (Инжинерный) ===" << std::endl;
     return 0;
 }
+// draft note 1
+// draft note 2
+// draft note 3
